@@ -4,4 +4,4 @@
 # 说明
 本项目基于微信公众平台拓展能力改造，适用于uni-app项目
 
-![视频演示](static/demo.mp4)
+<video src="static/demo.mp4" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
